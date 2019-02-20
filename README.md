@@ -1,1 +1,2 @@
 # Labora
+I’m working with Vancouver’s creative workers to identify and overcome the limitations of job hyperflexibility so that they can build fulfilling and meaningful careers without being overexposed to market dynamics. I am doing it for flexible workers and also the larger creative industries economic sector, as I believe that a stronger industry is achievable only through a stronger workforce.
