@@ -1,6 +1,6 @@
 # Labora Roadmap
 
-## 1. Return to a “maintained” status
+## 1. Milestone 1
 - [ ] 
 - [ ] 
 - [ ] 
