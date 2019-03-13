@@ -5,7 +5,7 @@
 - Brainstorm ideas for posts
 - Develop an editorial calendar
 
-### 2. Milestone C3: Academic Dissemination
+### 2. Milestone C2: Academic Dissemination
 - Present at CCA Vancouver
 - Present at ICA Academic Washington DC
 
