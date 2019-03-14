@@ -13,7 +13,7 @@
 - Define whitepaper
 
 ### 4. Milestone C4: Newsletter
-- [ ] 10 subscribers
+- [X] 10 subscribers
 - [ ] 50 subscribers 
 - [ ] 100 subscribers 
 - [ ] 200 subscribers 
